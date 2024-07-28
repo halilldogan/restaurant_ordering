@@ -1,0 +1,7 @@
+Django==4.0
+djangorestframework==3.14
+mysqlclient==2.1
+gunicorn==20.1
+django-redis
+requests
+python-dotenv
